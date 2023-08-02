@@ -1,7 +1,8 @@
-# Indian_Census.sql
+# SQL-Portfolio-Project-IndianCensus
 The "Indian Census SQL Data Exploration" project aims to delve into the vast troves of Indian Census data using SQL queries to gain valuable insights without relying on any visualization techniques. The Indian Census, one of the most extensive demographic exercises in the world, provides a comprehensive snapshot of the country's population, socio-economic factors, and other essential characteristics.
 
-Objective: The primary objective of this project is to perform in-depth data exploration using SQL queries on the Indian Census dataset. By employing SQL, we can effectively analyze and manipulate the data without resorting to visualization tools, thereby fostering a deeper understanding of the underlying patterns, trends, and relationships within the data.
+Objective:
+The primary objective of this project is to perform in-depth data exploration using SQL queries on the Indian Census dataset. By employing SQL, we can effectively analyze and manipulate the data without resorting to visualization tools, thereby fostering a deeper understanding of the underlying patterns, trends, and relationships within the data.
 
 Data Acquisition: We will begin by obtaining the Indian Census data in a structured format, which can be efficiently managed in a relational database management system (RDBMS).
 
@@ -19,4 +20,5 @@ Skills required for this project:- Excel, MYSQL, Data Loading, Data Cleaning, Da
 
 Connect with me on these platforms:-
 
-Gmail : ankit.arora0593@gmail.com LinkedIn : https://www.linkedin.com/in/ankit-arora-530a8b138/
+Gmail : alpatbrar0001@gmail.com
+LinkedIn : www.linkedin.com/in/alpat-brar-b64b70201/
